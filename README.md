@@ -61,18 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 📊 Statistcs
 
-### 📊 Statistics
 
-<p align="center" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SadSilva&show_icons=true&theme=transparent&hide_border=true"
-  />
-  <img
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SadSilva&theme=transparent&layout=compact&custom_title=Technologies&hide_border=true"
-  />
-</p>
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SadSilva&theme=transparent)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SadSilva&theme=transparent)
 
