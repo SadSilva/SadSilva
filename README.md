@@ -60,7 +60,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### 📊 Statistics
 
-<p align="center">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=SadSilva&show_icons=true&theme=transparent" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadSilva&theme=transparent&layout=compact&custom_title=Technologies" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadSilva&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadSilva&theme=transparent&layout=compact&custom_title=Technologies)
